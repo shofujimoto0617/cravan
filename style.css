@@ -34,18 +34,19 @@
 	background-color: gold;
 }
 .main {
-	width: 100%;
+	width: 840px;
 	background-color: green;
+	margin: 0 auto;
 }
 .blog {
 	width: 600px;
-	height: 600px;
+	height: 1400px;
 	background-color: limegreen;
 	float: left;
 }
 .sidbar {
 	width: 240px;
-	height: 600px;
+	height: 1400px;
 	background-color: palegreen;
 	float: left;
 }
