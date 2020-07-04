@@ -13,6 +13,7 @@ a {
 	clear: both;
 }
 header {
+	position: relative;
 	width: 90%;
 	padding: 15px 0;
 	margin: 0 auto;
@@ -20,6 +21,10 @@ header {
 }
 header.headlline {
 	font-size: 32px;
+}
+.social i {
+	display: inline-block;
+	margin-left: 20px;
 }
 .nav-list {
 	text-align: center;
